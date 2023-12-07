@@ -944,3 +944,10 @@ html {
 .ftco-footer-social li .fa:hover {
   color: #000000;
 }
+
+
+@media only screen and (max-width: 600px) {
+ .price{
+  margin-left: 20px;
+ }
+}
